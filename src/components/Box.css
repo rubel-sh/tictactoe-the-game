@@ -1,0 +1,27 @@
+.box {
+  border-radius: 30px;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+  background: #e0e0e0;
+  border: none;
+  width: 6rem;
+  height: 6rem;
+  font-size: 3em;
+  font-family: "Fredoka One", cursive;
+  font-weight: bold;
+  line-height: 6rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+.x {
+  color: rgb(255, 70, 37);
+}
+.o {
+  color: rgb(44, 135, 255);
+}
+
+.box:hover {
+  border-radius: 30px;
+  background: linear-gradient(145deg, #cacaca, #f0f0f0);
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+  box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+}
