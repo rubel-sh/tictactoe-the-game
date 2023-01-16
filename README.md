@@ -1,5 +1,5 @@
 # Live Demo
-https://rubrex.github.io/tictactoe-the-game
+https://rubel-sh.github.io/tictactoe-the-game/
 
 # Getting Started with Create React App
 
